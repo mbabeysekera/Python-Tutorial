@@ -1,7 +1,7 @@
 # Python-Tutorial
 Machine Learning with Python
 
-***This Project has been created in Jupyter NoteBook***
+***This Project has been created in Jupyter NoteBook.***
 ***Therefore, you have to re arrange it in order to run on a different Python package like PyCharm or IDLE***
 
 In this project I have used one of the most popular data set in the Machine Learning Community the ""Iris Data Set"
